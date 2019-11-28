@@ -19,11 +19,12 @@ Structure of the survey: The survey includes several questions structured into t
 <div style="text-align: justify">In the end, you will be asked to enter your email address on a voluntary basis. Provided you agree, we will use that address to latter provide you with an overview of the survey results. In any case, please rest assured that the survey follows a high academic standard and is conducted anonymously, and the address will be removed from the data set during the export so that no association with your answers will be possible. </div>
  
 For further information / questions, please contact:
-Msc. Mariana Maia Peixoto 
+- Msc. Mariana Maia Peixoto 
+
 Email: mmp2@cin.ufpe.br (primary contact - Federal University of Pernambuco/ Blekinge Institute of Technology)
-Prof. Dr. Tony Gorschek (supporting scientist -Blekinge Institute of Technology) 
-Dr. Daniel Mendez (supporting scientist- Blekinge Institute of Technology)
-Prof. Dr. Carla Silva (supporting scientist - Federal University of Pernambuco)   
+- Prof. Dr. Tony Gorschek (supporting scientist -Blekinge Institute of Technology) 
+- Dr. Daniel Mendez (supporting scientist- Blekinge Institute of Technology)
+- Prof. Dr. Carla Silva (supporting scientist - Federal University of Pernambuco)   
 
 
  
